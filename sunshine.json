@@ -5,10 +5,11 @@
     "versions": [
         {
             "version": "2.0.0.Onion",
-            "releaseDate": "2026-05-28",
+            "releaseDate": "2026-05-29",
             "mandatory": false,
             "releaseNotes": [
-                "Initial release - all content free, no subscription required"
+                "All content free — no subscription required",
+                "Same backend as original app"
             ],
             "state": "LATEST",
             "supported": true,

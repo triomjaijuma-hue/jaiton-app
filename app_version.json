@@ -1,8 +1,8 @@
 {
-    "versionCode": 20,
-    "versionName": "1.3.4",
-    "apkUrl": "https://github.com/triomjaijuma-hue/jaiton-app/raw/refs/heads/main/files/app-release.apk",
-    "sha256": null,
-    "releaseNotes": "Jaiton Movies 1.3.4 - bug fixes and performance improvements",
-    "forceUpdate": false
+  "versionCode": 20,
+  "versionName": "1.3.4",
+  "apkUrl": "https://github.com/triomjaijuma-hue/kawogo-app/raw/refs/heads/main/files/app-release.apk",
+  "sha256": null,
+  "releaseNotes": "Jaiton Movies 1.3.4 - 2026-06-03",
+  "forceUpdate": false
 }
